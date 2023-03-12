@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+header, div#paginacion {
+	text-align: center;
+	padding: 15px;
+
+}
+
+h1{text-align:center;
+}
+
+.subtitulo{
+	font-size:12px;
+}
+
+body{
+	background-color:#FFC;
+}
+
+table td{
+	text-align:center;
+	border:1px #000099 dotted;
+
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:0 5px;
+	border:0;
+}
+
+table .primera_fila{
+	font-size:1.5em;
+	text-decoration:underline;
+	background-color:#FC3;
+}
+
+div#paginacion a {
+	margin:0 1px;
+	padding: 3px;
+	background-color: #eee;
+}
+div#paginacion a.activa {
+	font-weight:bold; font-size:1.3em;
+}
+.centrado{
+	text-align:center;
+}
+.izq{
+	text-align: left;
+}
+
+.buscador{
+	margin-left: 40%;
+}
+
